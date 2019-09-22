@@ -6,7 +6,7 @@ const scn_pipe: PackedScene = preload("res://scenes/pipe.tscn")
 const GROUND_HEIGHT      : int = 55
 const PIPE_WIDTH         : int = 26
 const OFFSET_X           : int = 65
-const OFFSET_Y           : int = 55
+const OFFSET_Y           : int = 54
 const AMOUNT_TO_FILL_VIEW: int = 3
 
 func _ready() -> void:

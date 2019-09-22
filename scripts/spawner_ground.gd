@@ -3,7 +3,7 @@ class_name QSpawnerGround
 
 const scn_ground: PackedScene = preload("res://scenes/ground.tscn")
 
-const GROUND_WIDTH       : int = 168
+const GROUND_WIDTH       : int = 169
 const AMOUNT_TO_FILL_VIEW: int = 2
 
 func _ready() -> void:
